@@ -43,3 +43,8 @@ def apply_gravity(sandpile):
 
 ## Contribuer
 Les contributions sont les bienvenues ! Si vous souhaitez contribuer à ce projet, veuillez soumettre une demande d'extraction (pull request) avec vos modifications.
+
+## Auteur
+Ce projet a été créé par AMROUN Belkacem  et est disponible sur GitHub à l'adresse suivante :  https://github.com/BelkacemAMR/Tas-de-sable-abeliens
+
+N'hésitez pas à personnaliser cette présentation pour correspondre à votre projet et à ajouter des sections supplémentaires en fonction de vos besoins.
