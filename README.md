@@ -28,3 +28,18 @@ Gestion efficace des tableaux multidimensionnels avec NumPy pour une performance
 6.Modifier le code selon vos besoins ou ajouter de nouvelles fonctionnalités pour explorer davantage le modèle de tas de sable.
 
 ## Exemple de code
+
+```python
+import numpy as np
+
+def apply_gravity(sandpile):
+    # Implémentation de la règle de mise à jour des tas voisins
+    # ...
+
+# Exemple d'utilisation du modèle de tas de sable
+# ...
+
+```
+
+## Contribuer
+Les contributions sont les bienvenues ! Si vous souhaitez contribuer à ce projet, veuillez soumettre une demande d'extraction (pull request) avec vos modifications.
