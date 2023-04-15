@@ -16,10 +16,15 @@ Gestion efficace des tableaux multidimensionnels avec NumPy pour une performance
 ## Utilisation
 
 1.Cloner le projet à partir de GitHub : git clone https://github.com/votre-nom-utilisateur/nom-du-projet.git
+
 2.Installer les dépendances requises : pip install numpy
+
 3.Exécuter le fichier sandpile_simulator.py pour lancer le simulateur.
+
 4.Personnaliser les paramètres du modèle, tels que la taille du tas de sable et les conditions initiales, selon vos besoins.
+
 5.Observer l'évolution des tas de sable dans la sortie du simulateur ou dans les graphiques générés.
+
 6.Modifier le code selon vos besoins ou ajouter de nouvelles fonctionnalités pour explorer davantage le modèle de tas de sable.
 
 ## Exemple de code
