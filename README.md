@@ -15,7 +15,7 @@ Gestion efficace des tableaux multidimensionnels avec NumPy pour une performance
 
 ## Utilisation
 
-1.Cloner le projet à partir de GitHub : git clone https://github.com/votre-nom-utilisateur/nom-du-projet.git
+1.Cloner le projet à partir de GitHub : git clone https://github.com/BelkacemAMR/Tas-de-sable-abeliens
 
 2.Installer les dépendances requises : pip install numpy
 
