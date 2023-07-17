@@ -12,11 +12,11 @@ Dans ce modèle mathématique, des grains de sable sont déposés sur une grille
 
 ## Fonctionnalités
 
-Implémentation du modèle de tas de sable avec la règle de mise à jour des tas voisins.
-Détection des tas de sable instables et mise à jour dynamique du tas selon la règle du modèle.
-Visualisation des tas de sable sous forme de tableaux ou de graphiques pour observer leur évolution.
-Possibilité de personnaliser la taille du tas de sable et les conditions initiales.
-Gestion efficace des tableaux multidimensionnels avec NumPy pour une performance optimisée.
+- Implémentation du modèle de tas de sable avec la règle de mise à jour des tas voisins.
+- Détection des tas de sable instables et mise à jour dynamique du tas selon la règle du modèle.
+- Visualisation des tas de sable sous forme de tableaux ou de graphiques pour observer leur évolution.
+- Possibilité de personnaliser la taille du tas de sable et les conditions initiales.
+- Gestion efficace des tableaux multidimensionnels avec NumPy pour une performance optimisée.
 
 ## Utilisation
 
