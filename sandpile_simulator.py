@@ -12,7 +12,7 @@ def apply_gravity(sandpile):
 
 
 
-
+# Test du programme :
 
 # Créer une pile de sable 3x3 pour tester
 sandpile = np.array([[0, 0, 0],
