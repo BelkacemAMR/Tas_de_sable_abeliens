@@ -1,6 +1,6 @@
 
 
-# "Simulateur de modèle de tas de sable"
+# "Simulateur de modèle de tas de sable abeliens"
 
 ## Description
 Ce projet est un simulateur de modèle de tas de sable écrit en Python, utilisant la bibliothèque NumPy pour la manipulation de tableaux multidimensionnels. Le modèle de tas de sable est un concept en physique et en théorie des systèmes dynamiques qui montre comment des tas de sable peuvent se comporter de manière auto-organisée et évoluer vers un état d'équilibre.
