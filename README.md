@@ -6,7 +6,9 @@
 Ce projet est un simulateur de modèle de tas de sable abéliens  écrit en Python, utilisant la bibliothèque NumPy pour la manipulation de tableaux multidimensionnels.
 
 ## Le modèle de tas de sable abeliens ? 
-Le modèle de tas de sable abeliens est un concept en physique et en théorie des systèmes dynamiques qui montre comment des tas de sable peuvent se comporter de manière auto-organisée et évoluer vers un état d'équilibre.
+
+Le modèle de tas de sable abéliens est un concept en physique et en théorie des systèmes dynamiques qui montre comment des tas de sable peuvent se comporter de manière auto-organisée et évoluer vers un état d'équilibre. 
+Dans ce modèle mathématique, des grains de sable sont déposés sur une grille, formant des piles. Lorsque le nombre de grains dans une pile atteint un seuil critique, la pile devient instable, entraînant une redistribution des grains sur les piles voisines. Cette dynamique d'auto-organisation permet d'étudier les propriétés émergentes et l'autorégulation observées dans les systèmes complexes.
 
 ## Fonctionnalités
 
